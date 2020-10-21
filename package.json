@@ -9,6 +9,11 @@
   "author": "Jvdmey",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.4.0"
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.4.0",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^3.4.1"
   }
 }
